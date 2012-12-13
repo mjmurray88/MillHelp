@@ -1,0 +1,11 @@
+## Interface: 50100
+## Version: @project-version@
+## Title: MillHelp
+## Notes: Add a line to herb tooltips that shows what pigment they produce.
+## Author: Starinnia
+## X-Email: codemaster2010 AT gmail DOT com
+##OptionalDeps: MobileVault
+##SavedVariables: MILLHELP_HEADER
+
+MillHelp.lua
+MillHelp_Query.lua

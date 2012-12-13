@@ -1,0 +1,10 @@
+## Interface: 50100
+## Version: @project-version@
+## Title: MillHelp [|cff00ff00Glyphs|r]
+## Notes: Add a line to glyph tooltips that shows what inks and pigments are required.
+## Author: Starinnia
+## X-Email: codemaster2010 AT gmail DOT com
+##RequiredDeps: MillHelp
+##OptionalDeps: MobileVault
+
+Glyphs.lua
