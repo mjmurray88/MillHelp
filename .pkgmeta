@@ -1,4 +1,0 @@
-package-as: MillHelp
-
-move-folders:
-    MillHelp/Glyphs: MillHelp_Glyphs
