@@ -1,4 +1,4 @@
-## Interface: 50300
+## Interface: 60000
 ## Version: @project-version@
 ## Title: MillHelp [|cff00ff00Glyphs|r]
 ## Notes: Add a line to glyph tooltips that shows what inks and pigments are required.
